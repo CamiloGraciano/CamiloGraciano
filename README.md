@@ -7,7 +7,7 @@
 ```Python
 about.me = {
     pronouns: ["her"],
-    code: ["Python", "Java", "Javascript", "SQL"],
+    code: ["Python", "Java", "Javascript", "typescript", "SQL"],
     technologies: {
         back_end: ["Node.js", "Spring Boot", "Express", "Flask"],
         front_end: ["React", "CSS"],
